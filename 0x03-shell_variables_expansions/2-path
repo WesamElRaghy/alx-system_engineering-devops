@@ -1,2 +1,2 @@
 #!/bin/bash
-export PETH=$PATH:/action
+export PATH=$PATH:/action
